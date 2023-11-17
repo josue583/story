@@ -1,0 +1,2 @@
+# story
+mymaster_piece
